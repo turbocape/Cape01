@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "http://json-schema.org/schemas/2014-11-01/apiapp.json#",
+  "id": "PaInterface",
+  "namespace": "microsoft.com",
+  "gateway": "2020-09-21",
+  "version": "1.0.0",
+  "title": "PaInterface",
+  "summary": "",
+  "author": "",
+  "endpoints": null
+}
